@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nutshell-lab.com" target="_blank"><img alt="Nutshell Lab" src="https://github.com/nutshell-lab/.github/blob/main/public/images/logo.png" width="400"></a></p>
+<p align="center"><a href="https://nutshell-lab.com" target="_blank"><img alt="Nutshell Lab" src="https://github.com/nutshell-lab/.github/blob/main/public/logo.png" width="400"></a></p>
 
 ## About Nutshell
 
