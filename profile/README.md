@@ -17,4 +17,4 @@ We worked for various industries, like :
 - online exams - certified online tests platform
 - video game - ai and ui systems
 
-You have an exciting projet ? [contact us](https://nutshell-lab.com/?contact)
+You have an exciting project ? [contact us](https://nutshell-lab.com/?contact)
